@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a algorithm engineer in Alibaba Group.
+I am an algorithm engineer in Alibaba Group.
 
 Education:
 1. [2018-2021] Tsinghua University: Master
