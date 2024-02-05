@@ -11,6 +11,11 @@ redirect_from:
 
 I am a algorithm engineer in Alibaba Group.
 
+Education:
+1. [2018-2021] Tsinghua University: Master
+2. [2016-2018] Centrale Marseille: Exchange programme
+3. [2014-2016] Tsinghua University: Bachelor
+
 Publication:
 1. [CIKM 2023] GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting. Yanjun Zhao\*, __Ziqing Ma\*__, TianZhou\*, Mengni Ye, Liang Sun, Yi Qian.
 2. [ICASSP 2023] SaDI: A Self-adaptive Decomposed Interpretable Framework for Electricity Load Forecasting under Extreme Events. Hengbo LIU\*, __Ziqing MA\*__, Linxiao Yang, Tian Zhou, Rui Xia, Yi Wang, Qingsong Wen, Liang Sun.
