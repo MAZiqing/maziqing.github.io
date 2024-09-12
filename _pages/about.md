@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a passionate algorithm engineering specializing in machine learning and data analysis. I am at present working in Alibaba Group Damo Academy. The Homepage of our lab is [DAMO-DI-M](https://github.com/DAMO-DI-ML)
+I'm a passionate algorithm engineering specializing in machine learning and data analysis. I am at present working in Alibaba Group Damo Academy. The Homepage of our lab is [DAMO-DI-M](https://github.com/DAMO-DI-ML).
 
 
 Education:
@@ -26,4 +26,7 @@ Publication:
 6. [IEEE GRSL 2020] Hybrid Attention Networks for Flow and Pressure Forecasting in Water Distribution Systems. __Ziqing Ma__, Shuming Liu, Guancheng Guo, Xipeng Yu.
 7. [IAAI 2023] eForecaster: Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms. Zhaoyang Zhu, Weiqi Chen, Rui Xia, Tian Zhou, Peisong Niu, Bingqing Peng, Wenwei Wang, Hengbo Liu, __Ziqing Ma__, Qingsong Wen, Liang Sun.
 8. [IJCAI 2023] Transformer for time series a Survey. Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, __Ziqing Ma__, Junchi Yan, Liang Sun.
-9. [Water Resource Management 2020] Novel leakage detection and localization method based on line spectrum pair and cubic interpolation search. Guancheng Guo, Xipeng Yu, Shuming Liu, Xiyan Xu, __Ziqing Ma__, Xiaoting Wang, Yujun Huang, Kate Smith.
+9. [Water Resource Management 2020] Novel leakage detection and localization method based online spectrum pair and cubic interpolation search. Guancheng Guo, Xipeng Yu, Shuming Liu, Xiyan Xu, __Ziqing Ma__, Xiaoting Wang, Yujun Huang, Kate Smith.
+
+Interest:
+Snowboard, Scuba Diving.
