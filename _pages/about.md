@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a passionate algorithm engineering specializing in machine learning and data analysis. I am at present working in Alibaba Group Damo Academy. The Homepage of our lab is (DAMO-DI-ML)[https://github.com/DAMO-DI-ML]
+I'm a passionate algorithm engineering specializing in machine learning and data analysis. I am at present working in Alibaba Group Damo Academy. The Homepage of our lab is [DAMO-DI-M](https://github.com/DAMO-DI-ML)
 
 
 Education:
