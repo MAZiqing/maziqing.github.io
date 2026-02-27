@@ -32,12 +32,14 @@ My research focuses on developing robust and efficient machine learning models f
 * Extreme Event Prediction
 
 
-Education:
-1. [2018-2021] Tsinghua University: Master
-2. [2016-2018] Centrale Marseille: Exchange programme
-3. [2014-2018] Tsinghua University: Bachelor
+## Education
 
-Publication:
+* **M.S.**, Tsinghua University, 2018-2021
+* **Exchange Programme**, Centrale Marseille, 2016-2018
+* **B.S.**, Tsinghua University, 2014-2018
+
+## Publications
+
 1. [KDD 2025] Utilizing Strategic Pre-training to Reduce Overfitting: Baguan -- A Pre-trained Weather Forecasting Model. Peisong Niu, __Ziqing Ma__, Tian Zhou, Weiqi Chen, Lefei Shen, Rong Jin, Liang Sun.
 2. [KDD 2024] FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting. __Ziqing Ma\*__, Wenwei Wang\*, Tian Zhou\*, Chao Chen, Bingqing Peng, Liang Sun, Rong Jin.
 3. [CIKM 2023] GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting. Yanjun Zhao\*, __Ziqing Ma\*__, Tian Zhou\*, Mengni Ye, Liang Sun, Yi Qian.
@@ -49,5 +51,8 @@ Publication:
 9. [IJCAI 2023] Transformer for time series a Survey. Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, __Ziqing Ma__, Junchi Yan, Liang Sun.
 10. [Water Resource Management 2020] Novel leakage detection and localization method based online spectrum pair and cubic interpolation search. Guancheng Guo, Xipeng Yu, Shuming Liu, Xiyan Xu, __Ziqing Ma__, Xiaoting Wang, Yujun Huang, Kate Smith.
 
-Interest:
-Snowboard, Scuba Diving.
+## Interests
+
+* Snowboarding
+* Scuba Diving
+* Freediving
