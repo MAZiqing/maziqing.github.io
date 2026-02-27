@@ -40,7 +40,7 @@ My research focuses on developing robust and efficient machine learning models f
 
 ## Publications
 
-1. [KDD 2025] Utilizing Strategic Pre-training to Reduce Overfitting: Baguan -- A Pre-trained Weather Forecasting Model. Peisong Niu, __Ziqing Ma__, Tian Zhou, Weiqi Chen, Lefei Shen, Rong Jin, Liang Sun.
+1. [KDD 2025] Utilizing Strategic Pre-training to Reduce Overfitting: Baguan -- A Pre-trained Weather Forecasting Model. Peisong Niu\*, __Ziqing Ma\*__, Tian Zhou\*, Weiqi Chen, Lefei Shen, Rong Jin, Liang Sun.
 2. [KDD 2024] FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting. __Ziqing Ma\*__, Wenwei Wang\*, Tian Zhou\*, Chao Chen, Bingqing Peng, Liang Sun, Rong Jin.
 3. [CIKM 2023] GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting. Yanjun Zhao\*, __Ziqing Ma\*__, Tian Zhou\*, Mengni Ye, Liang Sun, Yi Qian.
 4. [ICASSP 2023] SaDI: A Self-adaptive Decomposed Interpretable Framework for Electricity Load Forecasting under Extreme Events. Hengbo LIU\*, __Ziqing MA\*__, Linxiao Yang, Tian Zhou, Rui Xia, Yi Wang, Qingsong Wen, Liang Sun.
