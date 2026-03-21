@@ -45,11 +45,15 @@ My research focuses on developing robust and efficient machine learning models f
 3. [CIKM 2023] GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting. Yanjun Zhao\*, __Ziqing Ma\*__, Tian Zhou\*, Mengni Ye, Liang Sun, Yi Qian.
 4. [ICASSP 2023] SaDI: A Self-adaptive Decomposed Interpretable Framework for Electricity Load Forecasting under Extreme Events. Hengbo LIU\*, __Ziqing MA\*__, Linxiao Yang, Tian Zhou, Rui Xia, Yi Wang, Qingsong Wen, Liang Sun.
 5. [Neurips 2022] FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting. Tian Zhou\*, __Ziqing Ma\*__, Xue wang, Qingsong Wen, Liang Sun, Tao Yao, Wotao Yin, Rong Jin. 
-6. [ICML2022] FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting. Tian Zhou\*, __Ziqing Ma\*__, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin.
+6. [ICML 2022] FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting. Tian Zhou\*, __Ziqing Ma\*__, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin.
 7. [IEEE GRSL 2020] Hybrid Attention Networks for Flow and Pressure Forecasting in Water Distribution Systems. __Ziqing Ma__, Shuming Liu, Guancheng Guo, Xipeng Yu.
 8. [IAAI 2023] eForecaster: Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms. Zhaoyang Zhu, Weiqi Chen, Rui Xia, Tian Zhou, Peisong Niu, Bingqing Peng, Wenwei Wang, Hengbo Liu, __Ziqing Ma__, Qingsong Wen, Liang Sun.
 9. [IJCAI 2023] Transformer for time series a Survey. Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, __Ziqing Ma__, Junchi Yan, Liang Sun.
 10. [Water Resource Management 2020] Novel leakage detection and localization method based online spectrum pair and cubic interpolation search. Guancheng Guo, Xipeng Yu, Shuming Liu, Xiyan Xu, __Ziqing Ma__, Xiaoting Wang, Yujun Huang, Kate Smith.
+
+## Working Papers
+
+1. [arXiv 2026] Integrating Weather Foundation Model and Satellite to Enable Fine-Grained Solar Irradiance Forecasting. __Ziqing Ma__, Kai Ying, Xinyue Gu, Tian Zhou, Tianyu Zhu, Haifan Zhang, Peisong Niu, Wang Zheng, Cong Bai, Liang Sun. [Paper](https://arxiv.org/abs/2603.14845)
 
 ## Interests
 
