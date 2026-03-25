@@ -54,6 +54,7 @@ My research focuses on developing robust and efficient machine learning models f
 ## Working Papers
 
 1. [arXiv 2026] Integrating Weather Foundation Model and Satellite to Enable Fine-Grained Solar Irradiance Forecasting. __Ziqing Ma__, Kai Ying, Xinyue Gu, Tian Zhou, Tianyu Zhu, Haifan Zhang, Peisong Niu, Wang Zheng, Cong Bai, Liang Sun. [Paper](https://arxiv.org/abs/2603.14845)
+2. [arXiv 2026] Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction. Peisong Niu, Haifan Zhang, Yang Zhao, Tian Zhou, __Ziqing Ma__, Wenqiang Shen, Junping Zhao, Huiling Yuan, Liang Sun. [Paper](https://arxiv.org/abs/2603.22314)
 
 ## Interests
 
