@@ -54,7 +54,8 @@ My research focuses on developing robust and efficient machine learning models f
 
 ## Working Papers
 
-1. [arXiv 2026] Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction. Peisong Niu, Haifan Zhang, Yang Zhao, Tian Zhou, __Ziqing Ma__, Wenqiang Shen, Junping Zhao, Huiling Yuan, Liang Sun. [Paper](https://arxiv.org/abs/2603.22314)
+1. [arXiv 2026] MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems. Xinle Deng, Ruobin Zhong, Hujin Peng, Xiaoben Lu, Yanzhe Wu, Guang Li, Buqiang Xu, Yunzhi Yao, Jizhan Fang, Haoliang Cao, Junjie Guo, Yuan Yuan, __Ziqing Ma__, Yuanqiang Yu, Rui Hu, Baohua Dong, Hangcheng Zhu, Ningyu Zhang. [Paper](https://arxiv.org/abs/2605.28732)
+2. [arXiv 2026] Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction. Peisong Niu, Haifan Zhang, Yang Zhao, Tian Zhou, __Ziqing Ma__, Wenqiang Shen, Junping Zhao, Huiling Yuan, Liang Sun. [Paper](https://arxiv.org/abs/2603.22314)
 
 ## Interests
 
