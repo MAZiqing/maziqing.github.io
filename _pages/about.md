@@ -34,9 +34,9 @@ My research focuses on developing robust and efficient machine learning models f
 
 ## Education
 
-* **M.S.**, Tsinghua University, 2018-2021
-* **Exchange Programme**, Centrale Marseille, 2016-2018
-* **B.S.**, Tsinghua University, 2014-2018
+* **M.S.**, Tsinghua University, Beijing, China, 2018-2021
+* **Exchange Programme**, Centrale Marseille, Marseille, France, 2016-2018
+* **B.S.**, Tsinghua University, Beijing, China, 2014-2018
 
 ## Publications
 
