@@ -9,7 +9,12 @@ redirect_from:
 ---
 
 
-I'm Ma Ziqing (马紫清), a passionate algorithm engineer specializing in machine learning and data analysis. I am at present working in Alibaba Group Damo Academy. The Homepage of our lab is [DAMO-DI-M](https://github.com/DAMO-DI-ML).
+I'm Ma Ziqing (马紫清), a passionate algorithm engineer specializing in machine learning and data analysis. I am currently working at Alibaba Taotian Group, and previously worked at Alibaba DAMO Academy ([DAMO-DI-M Lab](https://github.com/DAMO-DI-ML)) from 2021 to 2026.
+
+## Work Experience
+
+* **Algorithm Engineer**, Alibaba Taotian Group, 2026 - Present
+* **Algorithm Engineer**, Alibaba DAMO Academy, 2021 - 2026
 
 ## Research Interests
 
